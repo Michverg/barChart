@@ -1,0 +1,14 @@
+[
+  {
+    "gemeente": "Vlaams Gewest",
+    "jaar": 2018,
+    "Indicator": "CO2-emissies door verwarming huishoudens",
+    "Uitstoot per huishouden": 3.73239
+  },
+  {
+    "gemeente": "Aartselaar",
+    "jaar": 2018,
+    "Indicator": "CO2-emissies door verwarming huishoudens",
+    "Uitstoot per huishouden": 2.86567
+  }
+]
